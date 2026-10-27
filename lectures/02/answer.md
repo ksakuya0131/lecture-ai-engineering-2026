@@ -6,7 +6,7 @@
   - モデル：Qwen/Qwen3.5-0.8B
   - 学習方法：LoRA
   - エポック数：20
-  - 学習率：$2 \times 10^{-4}$
+  - 学習率：0.0002
   - LoRA rank：16
   - LoRA alpha：32
 - 自分で学習を実行したか（`executed_training_myself`）：はい 
